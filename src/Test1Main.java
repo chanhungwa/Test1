@@ -8,6 +8,7 @@ public class Test1Main {
 			System.out.println("loop number: "+ (i+1));
 		
 		System.out.println(print("Hello World"));
+		System.out.println("new line added");
 	}
 	
 	public static int addNum(int a, int b) {
