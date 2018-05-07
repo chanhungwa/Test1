@@ -7,12 +7,12 @@ public class Test1Main {
 		for(int i = 0; i<10 ;i++)
 			System.out.println("loop number: "+ (i+1));
 		
-<<<<<<< HEAD
+
 		System.out.println(print("Hello World!!!!!!!"));
-=======
+
 		System.out.println(print("Hello World"));
 		System.out.println("new line added");
->>>>>>> 218818f98f46371e07ee08ab30e7e1c66d947384
+
 	}
 	
 	public static int addNum(int a, int b) {
