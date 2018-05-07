@@ -7,7 +7,7 @@ public class Test1Main {
 		for(int i = 0; i<10 ;i++)
 			System.out.println("loop number: "+ (i+1));
 		
-		System.out.println(print("Hello World"));
+		System.out.println(print("Hello World!!!!!!!"));
 	}
 	
 	public static int addNum(int a, int b) {
